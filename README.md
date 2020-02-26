@@ -1,4 +1,3 @@
-# Cipherli.st
+# Cipherlists.com
 
-Notice: https://raymii.org/s/blog/Cancellation_notice_for_cipherlist_ssldecoder_and_certificatemonitor.html
-
+This is a fork of the original Cipherli.st webpage made by @RaymiiOrg. Since he abandoned the project I decided to take it over and host it on cipherlists.com.
